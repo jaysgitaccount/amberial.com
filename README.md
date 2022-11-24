@@ -3,7 +3,7 @@ Website for the game Amberial Dreams. The original repo didn't have a README, so
 
 [Link to original repo](https://github.com/lumorama/amberial.com)
 
-[Link to live website](amberial.com)
+[Link to live website](https://amberial.com)
 
 ## Notes
 A website that I did for a client. Initially I was asked to implement an interface that displayed the game's featured levels, sourced from mod.io's REST API. However, I also offered to give the existing website an overall facelift, to bring it more in line with modern web trends. I wanted the website to speak to its users more, instead of just being a brochure.
